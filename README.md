@@ -4,6 +4,6 @@ Built with the help of this tutorial: https://www.youtube.com/watch?v=ktjafK4SgW
 
 Site deployed on firebase: https://tinder-clone-4b4c3.web.app
 
-![Image of Musk](Musk.jpg)
+![Image of Musk](musk.jpg)
 
 
